@@ -1,0 +1,11 @@
+ .cardCont1{
+  display:flex;
+  width: 50%;
+  gap: 15px;
+  margin: 0 auto;
+  justify-content: center;
+  flex-wrap: wrap;
+  text-align: center;
+   
+
+ }
